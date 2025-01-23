@@ -116,13 +116,6 @@ Data visualization played a crucial role in identifying patterns not apparent fr
 
 ---
 
-## Team Contributions
-- **Bijay Adhikari**: Data cleaning and assigned questions.
-- **Samman Bhetwal**: Introduction, research questions, and assigned analysis.
-- **Saadat Sarwar Chowdhury**: Analysis of monthly sales and city performance.
-- **Saurav Dahal**: Analysis of advertisement timing and frequently bought products.
-- **Ujjwal Kunwar**: Analysis of best-selling products and conclusion.
-
 ---
 
 ## How to Use
