@@ -74,9 +74,8 @@ The data cleaning and preparation process involved:
 - **Insight**: Identified the month with the highest sales.
 - **Visualization**: Bar chart showing monthly sales trends.
 
-<p align="center">
-<img src="path/to/sales_by_month_image.png" alt="Monthly Sales Bar Chart" width="600"/>
-</p>
+![Sample Image](images/picture1.png)
+
 
 ---
 
@@ -84,9 +83,8 @@ The data cleaning and preparation process involved:
 - **Insight**: Determined which cities generated the highest revenue.
 - **Visualization**: Bar chart illustrating sales by city.
 
-<p align="center">
-<img src="path/to/sales_by_city_image.png" alt="City Sales Bar Chart" width="600"/>
-</p>
+![Sample Image](images/picture2.png)
+
 
 ---
 
@@ -94,9 +92,7 @@ The data cleaning and preparation process involved:
 - **Insight**: Analyzed the time of day with the highest sales activity to determine the best times to display advertisements.
 - **Visualization**: Line graph comparing hourly transactions and sales trends.
 
-<p align="center">
-<img src="path/to/hourly_sales_image.png" alt="Hourly Sales Line Chart" width="600"/>
-</p>
+![Sample Image](images/picture3.png)
 
 ---
 
